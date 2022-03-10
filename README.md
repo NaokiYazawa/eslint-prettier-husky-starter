@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a next.js (typescript) starter project with eslint, prettier and husky.
 
 ## Getting Started
 
-First, run the development server:
+First, clone this repository:
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone git@github.com:NaokiYazawa/eslint-prettier-husky-starter.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, run the following commands to get husky working properly:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```bash
+$ npm run prepare
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Now, everything is ready! 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Make any changes and run git add or git commit, the script configured in husky will run.
 
-## Learn More
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2279509/aec4f211-3d34-1630-75c3-df188c19c866.png)
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2279509/c2d0af14-82ba-0840-40f0-fa6be23fdfb1.png)
 
-To learn more about Next.js, take a look at the following resources:
+We hope you will use this service for your personal development.  
+Should you have any questions please feel free to contact us at anytime.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contact details：
+- [Twitter](https://twitter.com/8SKeEdvtHfOcczY) - Farstep【プログラミング講座】
+- [YouTube](https://www.youtube.com/channel/UCiGdng-6ZLS5tlfw0xnG3TA) - Farstep【プログラミング講座】
