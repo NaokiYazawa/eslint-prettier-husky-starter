@@ -1,5 +1,9 @@
 This is a next.js (typescript) starter project with eslint, prettier and husky.
 
+Click here for tutorial:
+- [Document](https://github.com/NaokiYazawa/eslint-prettier-husky-starter/blob/main/DESCRIPTION.md)
+- [Video]()
+
 ## Getting Started
 
 First, clone this repository:
