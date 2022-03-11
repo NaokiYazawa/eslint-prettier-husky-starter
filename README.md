@@ -26,7 +26,7 @@ Make any changes and run git add or git commit, the script configured in husky w
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/2279509/c2d0af14-82ba-0840-40f0-fa6be23fdfb1.png)
 
 We hope you will use this service for your personal development.  
-Should you have any questions please feel free to contact us at anytime.
+Should you have any questions please feel free to contact me at anytime.
 
 Contact details：
 - [Twitter](https://twitter.com/8SKeEdvtHfOcczY) - Farstep【プログラミング講座】
